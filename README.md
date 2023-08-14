@@ -1,7 +1,7 @@
 # ATM-Management-Database Wiki!
 
 This is a demo project that's being developed for the purpose of learning the basic **SQL Commands** such as **DDL,DML and PL-SQL**.
-The whole porject was built using **Oracle-Database**.
+The whole project was built using **Oracle-Database**.
 
 ##Here is the Physical Diagram of the Database:
 
