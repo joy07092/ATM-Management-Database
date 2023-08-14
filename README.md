@@ -4,5 +4,6 @@ This is a demo project that's being developed for the purpose of learning the ba
 The whole porject was built using **Oracle-Database**.
 
 ##Here is the Physical Diagram of the Database:
-![image](https://github.com/joy07092/ATM-Management-Database/assets/126982931/a9ee52f8-dbdd-4326-8ed3-294bcaf59592)
+<img width="657" alt="pics" src="https://github.com/joy07092/ATM-Management-Database/assets/126982931/fb8adb84-bf8c-40a7-963d-67876376bc28">
+
 
